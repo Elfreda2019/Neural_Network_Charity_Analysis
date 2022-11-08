@@ -16,7 +16,7 @@ with 12 raw features was used for the analysis.
 
 ### Data Preprocessing
 
-- The variable IS_SUCCESSFUL was considered the target. It was a binary variable. (Fig 1)
+- The variable IS_SUCCESSFUL was considered the target. It was a binary variable.
 
 -  Nine (9) variables were used as raw features for the model design and preprocessed to obtain
 about 43 features. They are: APPLICATION TYPE, CLASSIFICATION,USE CASE, ORGANIZATION,
