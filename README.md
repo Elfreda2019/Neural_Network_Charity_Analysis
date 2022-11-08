@@ -42,7 +42,7 @@ I fine-tuned the model (hyperparameters) by setting up different activation func
 varying number of hidden layers, number of neurons to optimize the model. In doing so,
 STATUS variable was dropped since less than 1% of the organizations were not active at the
 time of data collection. An accuracy score of 72.9% was obtained for this modification.
-
+![fig1](https://github.com/Elfreda2019/Neural_Network_Charity_Analysis/blob/main/Resources/fig1.png)
 
 ## Activity two
 
@@ -55,7 +55,7 @@ were taken into consideration.
 In summary, even though the modified deep learning model was able to reasonably predict
 successful applicants funded by Alphabet Soup, it couldn’t meet the targeted performance
 of about 75% or more.
-
+![fig2](https://github.com/Elfreda2019/Neural_Network_Charity_Analysis/blob/main/Resources/fig2.png)
 I would recommend a robust ensemble algorithm in particular a Random forest that uses
 less resources to achieve same of better performance than the deep learner especially
 when the features are small and all data preprocessing have been done.
